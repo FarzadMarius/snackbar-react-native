@@ -2,7 +2,12 @@
 
 Material Design "Snack Bar" component for Android and iOS.
 
+![demo](https://user-images.githubusercontent.com/20282558/63748265-45afc780-c8be-11e9-9e29-b59936f41418.gif)
 
+
+Snackbars are used for displaying a brief message to the user, along with an optional action. 
+They animate up from the bottom of the screen and then disappear shortly afterward.
+<br/>
 
 | Props                  | Required      | Default Value | Description |
 | -------------          | ------------- | ------------- | ----------- |
@@ -37,7 +42,7 @@ npm install --save react-native-snackbar
 
 ## Usage
 
-```js
+```
 import SnackBar from "snackbar-react-native";
 
 render(){
@@ -58,7 +63,7 @@ render(){
 };
 ```
 ## Custom View Snack Bar
-```js
+```
 import SnackBar from "snackbar-react-native";
 
 render(){
