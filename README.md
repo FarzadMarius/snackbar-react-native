@@ -9,6 +9,7 @@ Snackbars are used for displaying a brief message to the user, along with an opt
 They animate up from the bottom of the screen and then disappear shortly afterward.
 <br/>
 
+
 | Props                  | Required      | Default Value | Description |
 | -------------          | ------------- | ------------- | ----------- |
 |
