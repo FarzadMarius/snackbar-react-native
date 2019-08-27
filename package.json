@@ -3,8 +3,6 @@
   "version": "1.0.1",
   "description": "Snackbars are used for displaying a brief message to the user, along with an optional action. They animate up from the bottom of the screen and then disappear shortly afterward.",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"No test specified\""
   },
