@@ -38,13 +38,13 @@ They animate up from the bottom of the screen and then disappear shortly afterwa
 ## Install
 
 ```
-npm install --save snackbar-react-native
+npm install --save @farzad.zare/snackbar-react-native
 ```
 
 ## Usage
 
 ```
-import SnackBar from "snackbar-react-native";
+import SnackBar from "@farzad.zare/snackbar-react-native";
 
 render(){
     return (
@@ -65,7 +65,7 @@ render(){
 ```
 ## Custom View Snack Bar
 ```
-import SnackBar from "snackbar-react-native";
+import SnackBar from "@farzad.zare/snackbar-react-native";
 
 render(){
     return (

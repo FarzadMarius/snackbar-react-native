@@ -1,18 +1,16 @@
 {
-  "name": "snackbar-react-native",
+  "name": "@farzad.zare/snackbar-react-native",
   "version": "1.0.1",
   "description": "Snackbars are used for displaying a brief message to the user, along with an optional action. They animate up from the bottom of the screen and then disappear shortly afterward.",
   "main": "index.js",
-  "peerDependencies": {
-    "react": ">=0.13.2 || ^0.14 || ^15.0.0",
-    "react-native": ">=0.19.0"
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FarzadMarius/snackbar-react-native"
+    "url": "git+https://github.com/FarzadMarius/snackbar-react-native.git"
   },
   "keywords": [
     "react",
@@ -24,7 +22,7 @@
     "animate"
   ],
   "author": "Farzad Zare",
-  "license": "Farzad Marius",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/FarzadMarius/snackbar-react-native/issues"
   },
