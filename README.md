@@ -12,26 +12,26 @@ They animate up from the bottom of the screen and then disappear shortly afterwa
 | Props                  | Required      | Default Value | Description |
 | -------------          | ------------- | ------------- | ----------- |
 |
-| **children**           | No            |             | Render custom view    | 
-| **visible**            | Yes           | false       | show snackbar         |
-| **duration**           | No            | 3           | Seconds               |
-| **autoHide**           | No            | true        | Hide auto snackbar    |
-| **snackBarType**       | No            | INFO        | SnackBar.SnackBarType |
-| **buttonVisible**      | No            | true        | |
-| **buttonStyle**        | No            | -           | |
-| **renderButton**       | No            | -           | Render custom button or image |
-| **buttonText**         | Yes           | -           | |
-| **buttonTextStyle**    | No            | -           | |
-| **messageText**        | Yes           | -           | |
-| **messageTextStyle**   | No            | -           | |
-| **showAnimDuration**   | No            | 200         | |
-| **hideAnimDuration**   | No            | 200         | |
-| **imageVisible**       | No            | false       | |
-| **source**             | No            | -           | |
-| **resizeMode**         | No            | stretch     | |
-| **onPress**            | No            | -           | |
-| **onChangeVisible**    | Yes           | -           | |
-| **useNativeDriver**    | No            | true        | |
+| **children**           | No            |             | Render custom view     
+| **visible**            | Yes           | false       | show snackbar         
+| **duration**           | No            | 3           | Seconds               
+| **autoHide**           | No            | true        | Hide auto snackbar    
+| **snackBarType**       | No            | INFO        | SnackBar.SnackBarType 
+| **buttonVisible**      | No            | true        | 
+| **buttonStyle**        | No            | -           | 
+| **renderButton**       | No            | -           | Render custom button or image 
+| **buttonText**         | Yes           | -           | 
+| **buttonTextStyle**    | No            | -           | 
+| **messageText**        | Yes           | -           | 
+| **messageTextStyle**   | No            | -           | 
+| **showAnimDuration**   | No            | 200         | 
+| **hideAnimDuration**   | No            | 200         | 
+| **imageVisible**       | No            | false       | 
+| **source**             | No            | -           | 
+| **resizeMode**         | No            | stretch     | 
+| **onPress**            | No            | -           | 
+| **onChangeVisible**    | Yes           | -           | 
+| **useNativeDriver**    | No            | true        | 
 
 
 ## Install
