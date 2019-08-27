@@ -64,7 +64,7 @@ render(){
     );
 };
 ```
-#Custom View Snack Bar
+##Custom View Snack Bar
 ```js
 import SnackBar from "snackbar-react-native";
 
